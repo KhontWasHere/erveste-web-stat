@@ -6,3 +6,4 @@ basit bir leaderboard botu içinde çekilişte var + olarak web siteden görünt
 
 Son giren üye felan çalışıyor ses sayımına botları hariç tutabilirsiniz basit bir şekilde.
 ![image](https://github.com/KhontWasHere/erveste-web-stat/assets/82388102/78506c4d-4db7-4ba2-a567-0eaf1354c191)
+
