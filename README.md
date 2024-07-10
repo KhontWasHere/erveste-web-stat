@@ -1,6 +1,6 @@
 # erveste-web-stat
 basit bir leaderboard botu içinde çekilişte var + olarak web siteden görüntülenebiliyor dakika başı güncelliyor sıralamayı.
-20 starda atarım
+20 star gelince bu halini atarım üstünede level sistemi ekler webede eklerim 
 ![image](https://github.com/KhontWasHere/erveste-web-stat/assets/82388102/a675607c-6f88-4c18-8c55-f64d2631584a)
 
 
